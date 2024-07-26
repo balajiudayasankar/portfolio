@@ -3,3 +3,8 @@ Welcome to my portfolio repository! This project showcases a collection of my wo
 
 ## Modifications
 Do modifications as you wish
+- replace your image
+- replace every links
+- replace every descriptions
+- replace your projects
+- replace your copyrights mail
